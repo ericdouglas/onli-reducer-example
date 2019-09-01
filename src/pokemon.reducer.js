@@ -1,6 +1,8 @@
 import onli from "onli-reducer"
 import axios from "axios"
 
+import sleep from "./utils/sleep"
+
 // Constants
 const URL = "https://pokeapi.co/api/v2/pokemon/"
 
@@ -30,6 +32,10 @@ const _getPokemon = async ({ name, send }) => {
   const { showLoading, hideLoading, updateStore } = send
 
   showLoading()
+
+  // increase latency to show it's an async call
+  await sleep(1000)
+
   try {
     const { data } = await axios.get(`${URL}${name}`)
     updateStore({ pokemon: data })
