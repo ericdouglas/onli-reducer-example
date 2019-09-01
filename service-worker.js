@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/onli-reducer-example/precache-manifest.c728905ed5d39532dc042add27faea30.js"
+  "/onli-reducer-example/precache-manifest.3968224ff3d6f8afdad95d5d65c830dd.js"
 );
 
 self.addEventListener('message', (event) => {
