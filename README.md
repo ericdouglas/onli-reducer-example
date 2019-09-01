@@ -6,7 +6,7 @@ Sample project to show how to use the simple state management helper [onli-reduc
 
 ## Live demo
 
-You can see a live demo of this project **[here]()**.
+You can see a live demo of this project **[here](https://ericdouglas.github.io/onli-reducer-example/)**.
 
 ## License
 

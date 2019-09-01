@@ -13,7 +13,12 @@ const PokeForm = () => {
 
   return (
     <form onSubmit={handleSubmit}>
-      <input type='text' onChange={handleInput} value={name} />
+      <input
+        type='text'
+        onChange={handleInput}
+        value={name}
+        placeholder='Insert pokemon name here...'
+      />
       <input type='submit' value='Search' onSubmit={handleSubmit} />
     </form>
   )
