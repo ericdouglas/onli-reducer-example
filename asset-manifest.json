@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/onli-reducer-example/static/css/main.b43a3348.chunk.css",
-    "main.js": "/onli-reducer-example/static/js/main.8b2e1297.chunk.js",
-    "main.js.map": "/onli-reducer-example/static/js/main.8b2e1297.chunk.js.map",
+    "main.js": "/onli-reducer-example/static/js/main.4f6f7380.chunk.js",
+    "main.js.map": "/onli-reducer-example/static/js/main.4f6f7380.chunk.js.map",
     "runtime~main.js": "/onli-reducer-example/static/js/runtime~main.511a3ece.js",
     "runtime~main.js.map": "/onli-reducer-example/static/js/runtime~main.511a3ece.js.map",
     "static/js/2.514818d0.chunk.js": "/onli-reducer-example/static/js/2.514818d0.chunk.js",
     "static/js/2.514818d0.chunk.js.map": "/onli-reducer-example/static/js/2.514818d0.chunk.js.map",
     "index.html": "/onli-reducer-example/index.html",
-    "precache-manifest.b6d90cc7fdb2332c2551aeec4fb1d938.js": "/onli-reducer-example/precache-manifest.b6d90cc7fdb2332c2551aeec4fb1d938.js",
+    "precache-manifest.48bfefbf03ef07543fb1fc8afe912c52.js": "/onli-reducer-example/precache-manifest.48bfefbf03ef07543fb1fc8afe912c52.js",
     "service-worker.js": "/onli-reducer-example/service-worker.js",
     "static/css/main.b43a3348.chunk.css.map": "/onli-reducer-example/static/css/main.b43a3348.chunk.css.map"
   }

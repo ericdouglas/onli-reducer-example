@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e75c85c063342fc5a41caca2dd07c1d2",
+    "revision": "cc2ea613023f7a1b018bab76498843bb",
     "url": "/onli-reducer-example/index.html"
   },
   {
-    "revision": "a95c9fdb8bd86e56f668",
+    "revision": "117a492a55322acf842e",
     "url": "/onli-reducer-example/static/css/main.b43a3348.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/onli-reducer-example/static/js/2.514818d0.chunk.js"
   },
   {
-    "revision": "a95c9fdb8bd86e56f668",
-    "url": "/onli-reducer-example/static/js/main.8b2e1297.chunk.js"
+    "revision": "117a492a55322acf842e",
+    "url": "/onli-reducer-example/static/js/main.4f6f7380.chunk.js"
   },
   {
     "revision": "a39e194b437841df09fb",
