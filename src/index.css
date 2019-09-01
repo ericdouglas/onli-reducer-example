@@ -23,6 +23,11 @@ div {
 }
 
 img {
-  /* width: 96px; */
+  width: 96px;
   height: 96px;
+  margin-bottom: 30px;
+  padding: 20px;
+  border: 10px double rgba(255, 255, 255, 0.7);
+  border-radius: 10px;
+  background-color: #4accf0;
 }

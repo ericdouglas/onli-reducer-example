@@ -11,7 +11,7 @@ const PokeDisplay = () => {
       {loading && <Loading />}
 
       <h1>onli-reducer example</h1>
-      <h2>{`The current shiny Pokémon is ${pokemon.name}`}</h2>
+      <h2>The current shiny Pokémon is {pokemon.name}</h2>
 
       <img src={pokemon.image} alt={pokemon.name} />
 
