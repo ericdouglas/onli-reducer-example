@@ -30,6 +30,7 @@ const hideLoading = state => ({ ...state, loading: false })
 // Private/Async Actions
 const _getPokemon = async ({ name, send }) => {
   const { showLoading, hideLoading, updateStore } = send
+  const pokeName = name.toLowerCase().trim()
 
   showLoading()
 
@@ -37,7 +38,7 @@ const _getPokemon = async ({ name, send }) => {
   await sleep(1000)
 
   try {
-    const { data } = await axios.get(`${URL}${name}`)
+    const { data } = await axios.get(`${URL}${pokeName}`)
     updateStore({ pokemon: data })
     hideLoading()
   } catch (error) {
