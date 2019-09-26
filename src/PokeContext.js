@@ -41,6 +41,6 @@ const usePokeDispatch = () => {
   return context
 }
 
-const useCount = () => [usePokeState(), usePokeDispatch()]
+const usePokeContexts = () => [usePokeState(), usePokeDispatch()]
 
-export { PokeProvider, usePokeState, usePokeDispatch, useCount }
+export { PokeProvider, usePokeState, usePokeDispatch, usePokeContexts }
