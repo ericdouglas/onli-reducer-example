@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "homepage": "https://ericdouglas.github.io/onli-reducer-example",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "onli-reducer": "^0.3.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
